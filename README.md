@@ -16,5 +16,5 @@ In fact even with a bad parameterization, the method will also work as long as e
 
 
 
-
+[IPython Notebooks](http://nbviewer.ipython.org/github/NeuPhysics/sync-de-solver/tree/master/ipynb/)
 
